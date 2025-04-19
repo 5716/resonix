@@ -1,12 +1,24 @@
-# React + Vite
+Resonix - Music Visualizer
+Resonix is an interactive music visualizer built with React and Vite. It allows users to upload and play MP3 files while generating dynamic visualizations of the sound frequencies and beats in real time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Real-Time Music Visualizer: Visualizes sound frequencies using a dynamic waveform.
 
-Currently, two official plugins are available:
+Music Playback Controls: Includes play/pause, looping, and current track information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MP3 File Upload: Users can upload MP3 files and instantly visualize them.
 
-## Expanding the ESLint configuration
+Typewriter Animation: Displays creative phrases related to music in a typewriter style for an engaging user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Smooth Transitions & Animation: Ensures a smooth user experience with interactive visuals.
+
+Technologies Used
+React: Front-end library for building the user interface.
+
+Vite: A fast and optimized build tool.
+
+HTML5 Audio API: Used for playing audio files and creating visualizations based on frequency data.
+
+Canvas API: Used to draw the music visualizations in real time.
+
+CSS3: For styling the app and animations.
