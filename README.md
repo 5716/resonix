@@ -19,6 +19,11 @@
 - **CSS3:** For styling the app and animations.
 
 
-![Image](https://github.com/user-attachments/assets/f347a760-f416-4476-8e20-6fc1720ad07c)
+## Screenshots
+
 
 ![Image](https://github.com/user-attachments/assets/30aa3e0e-4c4a-421b-a544-a6ba740b01b1)
+
+
+![Image](https://github.com/user-attachments/assets/f347a760-f416-4476-8e20-6fc1720ad07c)
+
