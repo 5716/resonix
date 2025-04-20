@@ -17,3 +17,7 @@
 - **HTML5 Audio API:** Used for playing audio files and creating visualizations based on frequency data.
 - **Canvas API:** Used to draw the music visualizations in real time.
 - **CSS3:** For styling the app and animations.
+
+![Image](https://github.com/user-attachments/assets/30aa3e0e-4c4a-421b-a544-a6ba740b01b1)
+
+![Image](https://github.com/user-attachments/assets/f347a760-f416-4476-8e20-6fc1720ad07c)
